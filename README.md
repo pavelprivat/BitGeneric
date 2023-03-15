@@ -1,0 +1,2 @@
+# BitGeneric
+Generic Bitcoin wallets
